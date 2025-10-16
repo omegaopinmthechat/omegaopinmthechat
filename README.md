@@ -16,13 +16,13 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/amarsankarmaitra" target="_blank">
+  <a href="https://linkedin.com/in/amarsankarmaitra" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://instagram.com/_riijuu__" target="_blank">
+  <a href="https://instagram.com/_riijuu__" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="mailto:work.amarsankarmaitra@gmail.com" target="_blank">
+  <a href="mailto:work.amarsankarmaitra@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
@@ -47,9 +47,9 @@
 
 ---
 
-### 📅 Monthly Contribution Graph
+### 🗓️ Yearly Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omegaopinmthechat&theme=tokyo-night&hide_border=true&area=true&custom_title=Monthly%20Contributions&radius=10&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&hide_title=false&area_color=70a5fd&days=30" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omegaopinmthechat&theme=tokyo-night&hide_border=true&area=true&custom_title=Yearly%20Contributions&radius=10&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&hide_title=false&area_color=70a5fd" />
 </p>
 
 ---
