@@ -47,9 +47,13 @@
 
 ---
 
-### 🗓️ Yearly Contribution Graph
+### 🗓️ Yearly Contribution Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omegaopinmthechat&theme=tokyo-night&hide_border=true&area=true&custom_title=Yearly%20Contributions&radius=10&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&hide_title=false&area_color=70a5fd" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omegaopinmthechat&theme=tokyonight&utcOffset=5" alt="Monthly Activity Graph showing contributions by month" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omegaopinmthechat&theme=tokyonight" alt="Yearly Contribution Summary" />
 </p>
 
 ---
