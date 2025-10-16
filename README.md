@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Amar Sankar Maitra</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | ML Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Backend Engineer</h3>
 
 <p align="center">
   🚀 Passionate about crafting scalable web apps, intelligent systems, and impactful open-source projects.
@@ -40,18 +40,10 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omegaopinmthechat&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=omegaopinmthechat&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegaopinmthechat&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omegaopinmthechat&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
