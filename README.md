@@ -32,7 +32,7 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,express,nodejs,python,java,mysql,postgresql,mongodb,docker,git,figma,linux,matlab" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,express,nodejs,python,java,mysql,postgresql,mongodb,supabase,docker,git,figma,linux,matlab" />
 </p>
 
 ---
@@ -44,6 +44,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegaopinmthechat&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🧩 Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omegaopinmthechat&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
