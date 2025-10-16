@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Amar Sankar Maitra</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer </h3>
+<h3 align="center">Full-Stack Developer | Backend Engineer | ML Enthusiast</h3>
 
 <p align="center">
   🚀 Passionate about crafting scalable web apps, intelligent systems, and impactful open-source projects.
@@ -9,20 +9,21 @@
 ---
 
 ### 🌐 Portfolio & Contact
-- 👨‍💻 Check out my work: [**amarsankarmaitra.vercel.app**](https://amarsankarmaitra.vercel.app/)
+- 👨‍💻 Check out my work: [**amarsankarmaitra.vercel.app**](https://amarsankarmaitra.vercel.app)
 - 📫 Reach me at **work.amarsankarmaitra@gmail.com**
 
 ---
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/amarsankarmaitra" target="_blank" rel="noopener noreferrer">
+  <!-- These links will still open in same tab on GitHub, due to sandbox limitation -->
+  <a href="https://linkedin.com/in/amarsankarmaitra">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://instagram.com/_riijuu__" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/_riijuu__">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="mailto:work.amarsankarmaitra@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:work.amarsankarmaitra@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
@@ -50,7 +51,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omegaopinmthechat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omegaopinmthechat&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
