@@ -33,31 +33,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,express,nodejs,python,java,mysql,postgresql,mongodb,supabase,docker,git,figma,linux,matlab" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omegaopinmthechat&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegaopinmthechat&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-### 🗓️ Yearly Contribution Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omegaopinmthechat&theme=tokyonight&utcOffset=5" alt="Monthly Activity Graph showing contributions by month" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omegaopinmthechat&theme=tokyonight" alt="Yearly Contribution Summary" />
-</p>
-
----
-
-<p align="center">
-  <i>“Building reliable systems one commit at a time.” ⚙️</i>
-</p>
